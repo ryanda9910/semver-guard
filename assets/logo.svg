@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="semver-guard">
+  <rect width="128" height="128" rx="28" fill="#0D0F12"/>
+  <rect x="0.5" y="0.5" width="127" height="127" rx="27.5" stroke="#34D399" stroke-opacity="0.18"/>
+  <!-- shield = guard -->
+  <path d="M64 26 L94 38 V64 C94 82 81 94 64 102 C47 94 34 82 34 64 V38 Z" fill="none" stroke="#34D399" stroke-width="6" stroke-linejoin="round"/>
+  <!-- semver dots x.y.z, the major (left) dot flagged -->
+  <circle cx="52" cy="62" r="6" fill="#F87171"/>
+  <circle cx="64" cy="62" r="6" fill="#34D399"/>
+  <circle cx="76" cy="62" r="6" fill="#34D399"/>
+</svg>
